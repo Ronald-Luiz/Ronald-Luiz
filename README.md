@@ -1,4 +1,6 @@
-Front-End Web Developer | HTML | CSS | Javascript<br>
+<span>Front</span>-End Web Developer | HTML | CSS | Javascript
+<br>
+
 💻Atualmente sou estudante de programação e estou focado!
 
 <div align="center">
