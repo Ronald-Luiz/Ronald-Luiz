@@ -1,4 +1,4 @@
-<span>Front</span>-End Web Developer | HTML | CSS | Javascript
+<span>Front</span>-End Web Developer | HTML | <blue>CSS</blue> | Javascript
 <br>
 
 💻Atualmente sou estudante de programação e estou focado!
