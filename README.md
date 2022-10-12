@@ -1,7 +1,5 @@
-<span>Front</span>-End Web Developer | HTML | <blue>CSS</blue> | Javascript
+💻<i>Front-End Web Developer | HTML | CSS | Javascript</i>
 <br>
-
-💻Atualmente sou estudante de programação e estou focado!
 
 <div align="center">
   <a href="https://github.com/J4ckON">
