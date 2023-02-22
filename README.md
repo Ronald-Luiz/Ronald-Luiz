@@ -1,4 +1,4 @@
-💻<i>Front-End Web Developer | HTML | CSS | Javascript</i>
+💻<i>Front-End Web Developer | HTML | CSS | Javascript | React | NodeJS |</i>
 <br>
 
 <div align="center">
