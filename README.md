@@ -3,8 +3,6 @@
 
 <h3 align="center">💻A passionate Web Developer</h3>
 
- <img style="width: 350px; height: 350px; max-width: 100%;" src="https://camo.githubusercontent.com/ff9f2b8153310bc8f71d351292657ac51216a098179b4b162203c25c5629b278/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f4643544a56327534455471746b76466e30493166593138345562647057687170417979563677373733326f6f6b68466e6241465f674261574d4e66417732387a5f476856655a6d514959376a625575446c46456a575776366c644c65374676724a67343d77373530" data-canonical-src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w750" align="right">
-
     🌱 I’m currently learning ReactJS
 
     👯 I’m looking to collaborate on Team-Work
