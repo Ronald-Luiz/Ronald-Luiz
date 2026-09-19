@@ -46,6 +46,6 @@
 
 
   
-![Snake animation](https://github.com/Ronald-Luiz/Ronald-Luiz/blob/output/github-contribution-grid-snake.svg)  
+
  
 
